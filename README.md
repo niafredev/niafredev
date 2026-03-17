@@ -1,8 +1,8 @@
-# Olá! Eu sou o Niafre Guerra Barreto 👋
+# Oi, eu sou o Niafre Guerra Barreto 👋
 
 <div align="center">
   <h3>Estudante de Análise e Desenvolvimento de Sistemas (ADS)</h3>
-  <p>Focado em Análise de Dados e Desenvolvimento Web Responsivo.</p>
+  <p>Focado em Análise de Dados e Desenvolvimento, apaxionado en conhecer qualquer área de TI</p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 Sou um estudante apaixonado por tecnologia, lógica de programação e resolução de problemas através do código. Atualmente, estou cursando o CST em **Análise e Desenvolvimento de Sistemas** na **Estácio** (previsão de formatura: 2028).
 
-Moro em São José, Santa Catarina 🇧🇷, e utilizo este GitHub como minha bitácora de aprendizado, documentando minha jornada desde os primeiros algoritmos até projetos mais complexos.
+Moro em São José, Santa Catarina 🇧🇷, mas sou nativo de Ciudad Bolivar, Estado Bolívar em Venezuela, e utilizo este GitHub como minha bitácora de aprendizado, documentando minha jornada desde os primeiros algoritmos até projetos mais complexos.
 
 ---
 
